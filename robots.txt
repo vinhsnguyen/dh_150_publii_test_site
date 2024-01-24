@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://vinhsnguyen.github.io/dh_150_publii_test_site/sitemap.xml

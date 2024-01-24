@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Insert Name Here Later</title>
+    <link href="https://vinhsnguyen.github.io/dh_150_publii_test_site/feed.xml" rel="self" />
+    <link href="https://vinhsnguyen.github.io/dh_150_publii_test_site" />
+    <updated>2024-01-24T13:44:14-08:00</updated>
+    <author>
+        <name>Vinh Nguyen</name>
+    </author>
+    <id>https://vinhsnguyen.github.io/dh_150_publii_test_site</id>
+
+    <entry>
+        <title>Trying to add media now</title>
+        <author>
+            <name>Vinh Nguyen</name>
+        </author>
+        <link href="https://vinhsnguyen.github.io/dh_150_publii_test_site/trying-to-add-media-now.html"/>
+        <id>https://vinhsnguyen.github.io/dh_150_publii_test_site/trying-to-add-media-now.html</id>
+
+        <updated>2024-01-24T13:44:14-08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/HUHEPo_g0AQ" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Test post</title>
+        <author>
+            <name>Vinh Nguyen</name>
+        </author>
+        <link href="https://vinhsnguyen.github.io/dh_150_publii_test_site/test-post.html"/>
+        <id>https://vinhsnguyen.github.io/dh_150_publii_test_site/test-post.html</id>
+
+        <updated>2024-01-24T13:40:46-08:00</updated>
+            <summary>
+                <![CDATA[
+                    Making this post to know how
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Making this post to know how
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

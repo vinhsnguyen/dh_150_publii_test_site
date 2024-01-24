@@ -1,0 +1,40 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Insert Name Here Later",
+    "description": "",
+    "home_page_url": "https://vinhsnguyen.github.io/dh_150_publii_test_site",
+    "feed_url": "https://vinhsnguyen.github.io/dh_150_publii_test_site/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Vinh Nguyen"
+    },
+    "items": [
+        {
+            "id": "https://vinhsnguyen.github.io/dh_150_publii_test_site/trying-to-add-media-now.html",
+            "url": "https://vinhsnguyen.github.io/dh_150_publii_test_site/trying-to-add-media-now.html",
+            "title": "Trying to add media now",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/HUHEPo_g0AQ\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "author": {
+                "name": "Vinh Nguyen"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-24T13:43:38-08:00",
+            "date_modified": "2024-01-24T13:44:14-08:00"
+        },
+        {
+            "id": "https://vinhsnguyen.github.io/dh_150_publii_test_site/test-post.html",
+            "url": "https://vinhsnguyen.github.io/dh_150_publii_test_site/test-post.html",
+            "title": "Test post",
+            "summary": "Making this post to know how",
+            "content_html": "\n  <p>\n    Making this post to know how\n  </p>",
+            "author": {
+                "name": "Vinh Nguyen"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-24T13:40:46-08:00",
+            "date_modified": "2024-01-24T13:40:46-08:00"
+        }
+    ]
+}
